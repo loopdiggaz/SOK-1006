@@ -1,1 +1,1 @@
-Her ligger arbeidskravene mine :) 
+Her ligger arbeidskravene mine! 
