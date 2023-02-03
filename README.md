@@ -1,3 +1,3 @@
-# sok1006
+# SOK1006
 
-Her vil jeg laste opp mappeoppgaver og arbeidskrav. Noen av arbeidskravene kan være ufullstendig og mangle kode. 
+Her vil jeg laste opp mappeoppgaver og arbeidskrav. Noen av arbeidskravene kan være ufullstendig og mangle kode (se egen mappe).
