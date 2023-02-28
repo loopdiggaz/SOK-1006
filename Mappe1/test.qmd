@@ -94,6 +94,8 @@ df, df_id, ds = apiToDataframe(postUrl, apiQuery)
 ```
 
 ```{python}
+from matplotlib import pyplot as plt
+
 fig, ax = plt.subplots()
 ax.spines['top'].set_color('none')
 ax.spines['right'].set_color('none')
