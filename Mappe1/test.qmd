@@ -1,7 +1,6 @@
 ---
 title: "Mappeoppgave 1"
 code-fold: true
-jupyter: python3
 ---
 ## Kapittel 1. Innledning 
 
