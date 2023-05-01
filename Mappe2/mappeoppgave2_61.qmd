@@ -1,4 +1,9 @@
-## Innføring av bompenger i Tromsø. Effekter på bilisters atferd og velferd. 
+---
+title: "Innføring av bompenger i Tromsø. Effekter på bilisters atferd og velferd."
+author: "61"
+format: pdf
+echo: False
+--- 
 
 ### Kapittel 1. Innledning 
 
