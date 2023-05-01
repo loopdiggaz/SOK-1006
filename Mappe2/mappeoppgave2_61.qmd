@@ -8,8 +8,6 @@ Bomstasjonene i Tromsø ble nylig satt i drift, 5. Januar 2023. Inntektene fra b
 
 Det er blitt satt opp 15 bomstasjoner i Tromsø, disse har som nevnt vært i drift fra og med 5. Januar 2023. Tanken bak plasseringen av bomstasjonene er at de skal fange opp de største reisestrømmene i byområdet. Hensikten med dette er at flest mulig skal bidra til å betale. 
 
-![Alt text](../../../../../../../../c:/Users/gusta/OneDrive/Dokumenter/GitHub/SOK1006/Mappe2/bomstasjoner%20troms%C3%B8.png)
-
 ```{python}
 from matplotlib import pyplot as plt
 fig, ax = plt.subplots()
