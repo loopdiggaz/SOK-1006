@@ -1,0 +1,17 @@
+---
+title: "Innføring av bompenger i Tromsø. Effekter på bilisters atferd og velferd."
+author: "61"
+---
+
+#### Kapittel 1. Innledning
+
+Bomstasjonene i Tromsø ble nylig satt i drift, 5. Januar 2023. Inntektene fra bomstasjonene er bilstene sitt bidrag til finansiering av bypakken Tenk Tromsø. Bidraget utgjør ca. 58 % av bypakkens totale økonomiske ramme på 6,5 milliarder kroner. Stat, kommune og fylke deler den øvrige finansiering mellom seg (Tenk Tromsø, u.å.).
+
+##### Kort om bomstasjonene
+
+Det er blitt satt opp 15 bomstasjoner i Tromsø, disse har som nevnt vært i drift fra og med 5. Januar 2023. Tanken bak plasseringen av bomstasjonene er at de skal fange opp de største reisestrømmene i byområdet. Hensikten med dette er at flest mulig skal bidra til å betale.
+
+```{python}
+from matplotlib import pyplot as plt
+fig, ax = plt.subplots()
+```
